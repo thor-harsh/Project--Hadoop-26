@@ -1,6 +1,5 @@
 # Project--Hadoop-26
 
-
 <table>
   
 **In this project We will use Spark with Python to do an amazing stuff.Here We will use Spark SQL to display the top 10 most popular movie id along with name in the dataset by using broadcasting variable to broadcast the dictionary containing the mapping of movie-id to movie-name and then sorting it in descending order on basis of count.Here we also used the concept of user defined function**.<br></br>
